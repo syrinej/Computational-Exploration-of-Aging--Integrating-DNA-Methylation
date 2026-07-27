@@ -46,9 +46,6 @@ This project explores the biological aging process through computational analysi
 - **Visualization:** Plotly
 - **Pathway Analysis:** Enrichr
 
-## Applications and Future Directions
-- **Potential for biomarker use** in clinical diagnostics and monitoring age-related conditions.
-- **Expansion to diverse populations and integration** with additional omics data (transcriptomics, proteomics).
-- **Experimental validation** of findings recommended for deeper insights into aging mechanisms.
+
 
 
